@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "churn_db",
+            "database": "churn.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
